@@ -13,6 +13,8 @@
 
 I’ve built A search engine entirely in Python3.8 and released it on Google Play Store
 
+Sep 12 to Sep 25 2025. Made in 13 days.
+
 <a style="display:inline-block;line-height:18px;margin-top:8px;padding:0;font-size:13px" href="https://play.google.com/store/apps/details?id=briefcase.Omnexa.Omnexa
 ">
 <b>👉 </b> Try 
